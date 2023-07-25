@@ -1,0 +1,15 @@
+Objective - Lesson 6 - L02
+
+- Revisit last example
+- Constructors
+  : default constructor
+  : other constructor
+  : method to display or process objects
+- Passing by values versus passing by reference
+- Assign one object to another object
+  : copy constructor
+- Introduce a static variable inside the class
+- More on this
+- Multiple constructors
+
+   ==> scope of Lab 3 is in order

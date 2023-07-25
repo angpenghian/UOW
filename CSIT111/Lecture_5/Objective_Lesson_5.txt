@@ -1,0 +1,18 @@
+Objective - Lesson 5
+
+- Revisit last example
+
+- What is a good class?
+  : It consists of private non-static attributes
+  : It consists of public / private non-static methods
+  
+- How to design?
+  : instance variables
+  : constructor
+  : accessor methods
+  : mutator methods
+  : other instance methods
+  : the use of this
+
+Around 8:30 pm : A1P2, before you leave demo to me your Lab 2
+==> open book

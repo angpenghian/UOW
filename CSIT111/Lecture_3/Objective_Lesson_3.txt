@@ -1,0 +1,21 @@
+Objective
+
+1. Revision example - more on Scanner class methods
+2. The use of printf method for formatted output
+3. How to remove input buffer?
+4. Explore static variables defined inside the class
+5. To have a table for output
+6. Explore a bit on UML diagram
+
+==> scope of A1 will be in order
+
+Register with me your tutorial group in Moodle if you haven't done that
+
+Continue to do your lab 2 in class if we still have some times
+
+I think: I will release Assignment 1 ....
+
+17 July:
+   Assignment 1 Part 2: Topics 1 to 4
+   (40 MCQ)
+   

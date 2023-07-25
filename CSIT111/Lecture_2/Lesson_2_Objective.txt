@@ -1,0 +1,13 @@
+Lesson 2 - Objective
+
+- Object oriented programming concepts
+- How to write a complete java program?
+  : What are variables?
+  : What are data types?
+  : What are assignment statements?
+  : How to do simple writing?
+  : How to do simple reading?
+  : The use  / and % operators
+  : The use of Math class (PI, for example)
+  : How to swap two values?
+  : Simple UML disgram

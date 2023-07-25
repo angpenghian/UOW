@@ -1,0 +1,16 @@
+Objective - Lesson 4
+
+- enum data type
+- String
+- Command line argument
+- User defined methods
+  : static methods
+  : non-static methods i.e. instance methods
+- Case Study
+   - explore a few classes and how to access to static
+     information defined in other class(es)
+   - next week we will define a class consists of non-static information
+     and explore how to use them.
+   
+ Next week during the tutorial will be your assignment 1 part 2
+  : I think ... 40 MCQ (topics 1 to 4)
