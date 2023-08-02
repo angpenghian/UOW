@@ -1,0 +1,19 @@
+Objective Lesson 9
+
+- Revisit last example
+  : the use of if, if-else, nested if-else
+- switch statements
+  : falling thru features
+ 
+ ==> scope of lab 4 and term test in order
+ ==> will be out later
+ 
+- Repetition designs
+  : while loop
+  : for loop
+  : do while loop
+  : nested loops
+  : continue, break ==> avoid using them
+
+Around 8:30 A2P2
+After A2P2 -> demo to me Lab 3 before you leave

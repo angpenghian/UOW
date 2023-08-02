@@ -1,0 +1,10 @@
+Lesson 7 objective
+
+- Case study 1: Starting with a simple example
+                      : Time class HH:MM:SS
+- Case study 2: Explore Composite classes
+                      : plus a bit of text file processing
+					  : scope of A2 in order
+- Case study 3: An example to prepare for selection design
+
+You can demo to me your A1 today

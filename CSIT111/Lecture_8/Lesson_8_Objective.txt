@@ -1,0 +1,13 @@
+Objective - Lesson 8
+
+- Starting from sequential control structure
+
+- Selection design
+  : if
+  : if else
+  : nested if else
+  : conditional expression
+  : switch statement
+  
+  
+ Next week, during tutorial A2P2

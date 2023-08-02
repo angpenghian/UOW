@@ -1,0 +1,16 @@
+Objective - Lesson 10
+
+- Three types of loops
+  : while loop
+    -> sentinel controlled while loop
+	-> counter controlled while loop
+	-> flag controlled while loop
+	-> explore a case study (for all features)
+	
+  : for loop
+  : do while loop
+ 
+- Application of nested loops
+  
+
+  
