@@ -1,4 +1,10 @@
-package UOW.CSIT111.Lecture_4.Labs;
+// Name: PengHian Ang
+// Tutorial: T03P
+// Java version: 17.0.7, 64 bit
+//
+// Objective: Write a java program to check if 3 numbers can form a triangle
+// Name of the program: Penghian_Ang_Lab3.java
+// Declaration: This is my own program
 
 enum Type {
     Equilateral, Isosceles, Scalene, NotTriangle
@@ -53,7 +59,7 @@ class PossibleTriangle {
     }
 }
 
-public class Lab_4 {
+public class PenghianAng_09_Lab_4 {
     public static void main(String[] args) {
         PossibleTriangle t1 = new PossibleTriangle(4, 5, 6);
         PossibleTriangle t2 = new PossibleTriangle(1, 2, 3);
