@@ -1,0 +1,6 @@
+﻿username,password,user_type
+username1,password1,teacher
+username2,password2,student
+teach,teach,teacher
+student,student,student
+std,std,student

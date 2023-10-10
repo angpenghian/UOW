@@ -1,0 +1,8 @@
+room_name,room_type,date,username
+12312,12321,2023-10-11,"<?php echo $_SESSION['username']; ?>"
+12312,12321,2023-10-11,"<?php echo $_SESSION['username']; ?>"
+12312,12321,2023-10-11,"<?php echo $_SESSION['username']; ?>"
+12312,12321,2023-10-11,"<br />
+<b>Warning</b>:  Undefined array key "
+12312,12321,2023-10-11,"<br />
+<b>Warning</b>:  Undefined array key "

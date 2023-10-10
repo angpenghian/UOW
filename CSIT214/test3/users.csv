@@ -1,0 +1,5 @@
+username,password,role
+teacher1,teacherpass1,teacher
+student1,studentpass1,student
+test,test,teacher
+test2,test2,student

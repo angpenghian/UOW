@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login/Register Page</title>
+</head>
+<body>
+    <form action="process_login_register.php" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br>
+        
+        <input type="radio" id="role_student" name="role" value="student" required>
+        <label for="role_student">Student</label><br>
+        
+        <input type="radio" id="role_teacher" name="role" value="teacher" required>
+        <label for="role_teacher">Teacher</label><br>
+        
+        <input type="submit" name="login" value="Login">
+        <input type="submit" name="register" value="Register">
+    </form>
+</body>
+</html>
