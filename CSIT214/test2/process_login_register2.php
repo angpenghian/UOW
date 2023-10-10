@@ -5,14 +5,14 @@ $file_path = 'users.csv';
 if (isset($_POST['login'])) {
     $username = $_POST['username'];
     $password = $_POST['password'];
-    $role = $_POST['login_role'];
+    $role = $_POST['role2'];
 
     // Check credentials
     $file = fopen($file_path, 'r');
     while (($line = fgetcsv($file)) !== FALSE) {
         if ($line[0] == $username && $line[1] == $password && $line[2] == $role) {
             $_SESSION['username'] = $username;
-            $_SESSION['role'] = $role;
+            $_SESSION['role2'] = $role;
             fclose($file);
             header('Location: ' . ($role == 'teacher' ? 'teacher_page.php' : 'student_page.php'));
             exit();
@@ -23,7 +23,7 @@ if (isset($_POST['login'])) {
 } elseif (isset($_POST['register'])) {
     $username = $_POST['username'];
     $password = $_POST['password'];
-    $role = $_POST['reg_role'];
+    $role = $_POST['role2'];
 
     // Check if username already exists
     $file = fopen($file_path, 'r');
