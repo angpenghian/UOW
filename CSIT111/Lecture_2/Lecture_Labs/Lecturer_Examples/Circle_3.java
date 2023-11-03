@@ -1,3 +1,4 @@
+package UOW.CSIT111.Lecture_2.Lecture_Labs.Lecturer_Examples;
 // Given a radius of a circle.
 // - We wish to compute its area and its perimeter.
 // - Display the info.
